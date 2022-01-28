@@ -9,7 +9,7 @@ A simple static site generator built with Python. This script will generate star
 3. Use new post to create a txt template.
 4. Edit the template using the included pseudo-markdown syntax.
 5. Use publish to convert your post.txt files into html.
-6. Be sure to reindex after publishing, so that your index page includes an updated list of post links.
+6. Be sure to reindex after publishing. This will rebuild your index page to include an updated list of post links.
 
 ### Styling and Dynamic Content
 
